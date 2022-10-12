@@ -26,7 +26,7 @@ You can evaluate the result maps using the tool in
 
 # 4.Results
 # 4.1 Qualitative Comparison  
-![image](figs/Qualitative comparison.jpg)  
+![image](figs/Qualitative_comparison.jpg)  
 Figure.2 Qualitative comparison of our proposed method with ﬁfteen SOTA methods. 
 
 
