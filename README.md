@@ -14,14 +14,14 @@ Download the raw data from . Then put them under the following directory:
        -test_in_train\
        
 # 3.Training & Testing
-**Training the PSNet**
+**Training the PSNet**  
 python Train.py
 
-**Testing the PSNet**
-python Test.py
+**Testing the PSNet**  
+python Test.py  
 Then the test maps will be saved to './Salmaps/'
 
-**Evaluate the result maps**
+**Evaluate the result maps**  
 You can evaluate the result maps using the tool in
 
 
