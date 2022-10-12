@@ -29,6 +29,10 @@ You can evaluate the result maps using the tool in
 ![image](figs/Qualitative_comparison.jpg)  
 Figure.2 Qualitative comparison of our proposed method with ﬁfteen SOTA methods. 
 
+![image](figs/results.jpg)  
+Table.1 Quantitative comparison with ﬁfteen SOTA models on three public RGB-T benchmark datasets.  
+
+
 
 
 Test maps of vgg16 and vgg19 backbones of our model can be download from [here](https://pan.baidu.com/s/1aVHjW0WdIDIDvbHeC1ypNg) [code:NEPU] 
