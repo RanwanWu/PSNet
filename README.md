@@ -24,7 +24,8 @@ Then the test maps will be saved to './Salmaps/'
 **Evaluate the result maps**  
 You can evaluate the result maps using the tool in
 
-
+# 4.Results
+# 4.1 Qualitative Comparison
 
 
 
