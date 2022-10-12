@@ -1,5 +1,5 @@
 # PSNet:Parallel symmetric network for RGB-T salient object detection
-#1. Requirements
+# 1. Requirements
 
 
 
