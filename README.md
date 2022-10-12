@@ -25,7 +25,9 @@ Then the test maps will be saved to './Salmaps/'
 You can evaluate the result maps using the tool in
 
 # 4.Results
-# 4.1 Qualitative Comparison
+# 4.1 Qualitative Comparison  
+![image](figs/Qualitative comparison.jpg)  
+Figure.2 Qualitative comparison of our proposed method with ﬁfteen SOTA methods. 
 
 
 
