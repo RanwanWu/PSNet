@@ -1,6 +1,6 @@
 # PSNet:Parallel symmetric network for RGB-T salient object detection
 ![image](figs/overall.jpg)
-Figure.1 The overall architecture of the proposed PSNet model.
+    Figure.1 The overall architecture of the proposed PSNet model.
 
 # 1.Requirements
 Python 3.7, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
