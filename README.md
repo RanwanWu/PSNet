@@ -1,9 +1,16 @@
 # PSNet:Parallel symmetric network for RGB-T salient object detection
-# 1. Requirements
+# 1.Requirements
 Python 3.7, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
 
 # 2.Data Preparation
-Download the raw data from 
+Download the raw data from . Then put them under the following directory:
+    -Dataset\ 
+       -train\  
+       -test\
+       -test_in_train\
+       
+# 3.Training & Testing
+** Training the PSNet **
 
 
 
