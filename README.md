@@ -18,7 +18,9 @@ Download the raw data from . Then put them under the following directory:
 python Train.py
 
 **Testing the PSNet**  
+Please download the [model parameters](https://pan.baidu.com/s/11zsL2vBhCbNIa7X9QDG5Hw)[code:NEPU] 
 python Test.py  
+
 Then the test maps will be saved to './Salmaps/'
 
 **Evaluate the result maps**  
