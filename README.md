@@ -3,7 +3,7 @@
    Figure.1 The overall architecture of the proposed PSNet model.
 
 # 1.Requirements
-Python 3.7, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
+Python v3.6, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
 
 # 2.Data Preparation
 Download the raw data from [here](https://pan.baidu.com/s/1JtnzmNVp-W-68pwscQYM3g)[code:NEPU]. Then put them under the following directory:  
