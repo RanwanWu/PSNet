@@ -43,7 +43,7 @@ The salmaps of the above datasets (Res2Net backbone) can be download from [here]
 The salmaps of the above datasets (VGG16 backbone) can be download from [here](https://pan.baidu.com/s/11ibTBy0VUE17Lp5FxsNd9w) [code:NEPU]  
 The salmaps of the above datasets (Swintransformer) can be download from [here](https://pan.baidu.com/s/1_uY9a8cEBfPoIRAZD7Xvwg) [code:NEPU]  
 
-# Citation  
+# 5.Citation  
 @article{BI2022410,  
 title = {PSNet: Parallel symmetric network for RGB-T salient object detection},  
 author = {Hongbo Bi and Ranwan Wu and Ziqi Liu and Jiayuan Zhang and Cong Zhang and Tian-Zhu Xiang and Xiufang Wang},  
@@ -56,6 +56,6 @@ doi = {https://doi.org/10.1016/j.neucom.2022.09.052},
 url = {https://www.sciencedirect.com/science/article/pii/S0925231222011559},  
 }  
 
-# Contact  
+# 6.Contact  
 If you have any questions, feel free to contact us via tianzhu.xiang19@gmail.com (T.-Z. Xiang) or wuranwan2020@sina.com (Ranwan Wu).
  
