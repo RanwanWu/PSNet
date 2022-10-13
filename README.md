@@ -33,8 +33,7 @@ Figure.2 Qualitative comparison of our proposed method with ﬁfteen SOTA method
 Table.1 Quantitative comparison with ﬁfteen SOTA models on three public RGB-T benchmark datasets.  
 
 # 4.3 Download  
-The salmaps of the above datasets (Res2Net backbone) can be download from [here](https://pan.baidu.com/s/1u5kDvmTsSAQHuHk077Beng) [code:NEPU]
-
-
-
-Test maps of vgg16 and vgg19 backbones of our model can be download from [here](https://pan.baidu.com/s/1aVHjW0WdIDIDvbHeC1ypNg) [code:NEPU] 
+The salmaps of the above datasets (Res2Net backbone) can be download from [here](https://pan.baidu.com/s/1u5kDvmTsSAQHuHk077Beng) [code:NEPU]  
+The salmaps of the above datasets (VGG16 backbone) can be download from [here](https://pan.baidu.com/s/11ibTBy0VUE17Lp5FxsNd9w) [code:NEPU]  
+The salmaps of the above datasets (Swintransformer) can be download from [hrer](https://pan.baidu.com/s/1_uY9a8cEBfPoIRAZD7Xvwg) [code:NEPU]
+ 
