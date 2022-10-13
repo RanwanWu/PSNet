@@ -44,15 +44,18 @@ The salmaps of the above datasets (VGG16 backbone) can be download from [here](h
 The salmaps of the above datasets (Swintransformer) can be download from [here](https://pan.baidu.com/s/1_uY9a8cEBfPoIRAZD7Xvwg) [code:NEPU]  
 
 # Citation  
-@article{BI2022410,
-title = {PSNet: Parallel symmetric network for RGB-T salient object detection},
-author = {Hongbo Bi and Ranwan Wu and Ziqi Liu and Jiayuan Zhang and Cong Zhang and Tian-Zhu Xiang and Xiufang Wang}
-journal = {Neurocomputing},
-volume = {511},
-pages = {410-425},
-year = {2022},
-issn = {0925-2312},
-doi = {https://doi.org/10.1016/j.neucom.2022.09.052},
-url = {https://www.sciencedirect.com/science/article/pii/S0925231222011559},
-}
+@article{BI2022410,  
+title = {PSNet: Parallel symmetric network for RGB-T salient object detection},  
+author = {Hongbo Bi and Ranwan Wu and Ziqi Liu and Jiayuan Zhang and Cong Zhang and Tian-Zhu Xiang and Xiufang Wang},  
+journal = {Neurocomputing},  
+volume = {511},  
+pages = {410-425},  
+year = {2022},  
+issn = {0925-2312},  
+doi = {https://doi.org/10.1016/j.neucom.2022.09.052},  
+url = {https://www.sciencedirect.com/science/article/pii/S0925231222011559},  
+}  
+
+# Contact  
+If you have any questions, feel free to contact us via tianzhu.xiang19@gmail.com (T.-Z. Xiang) or wuranwan2020@sina.com (Ranwan Wu).
  
