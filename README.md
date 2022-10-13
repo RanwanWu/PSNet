@@ -6,7 +6,7 @@
 Python 3.7, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
 
 # 2.Data Preparation
-Download the raw data from . Then put them under the following directory:  
+Download the raw data from [here](https://pan.baidu.com/s/1JtnzmNVp-W-68pwscQYM3g)[code:NEPU]. Then put them under the following directory:  
 
     -Dataset\   
        -train\  
@@ -18,7 +18,8 @@ Download the raw data from . Then put them under the following directory:
 python Train.py
 
 **Testing the PSNet**  
-Please download the [model parameters](https://pan.baidu.com/s/11zsL2vBhCbNIa7X9QDG5Hw)[code:NEPU] 
+Please download the [model parameters](https://pan.baidu.com/s/11zsL2vBhCbNIa7X9QDG5Hw)[code:NEPU]  
+
 python Test.py  
 
 Then the test maps will be saved to './Salmaps/'
