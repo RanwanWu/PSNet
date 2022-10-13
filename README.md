@@ -15,12 +15,14 @@ Download the raw data from [here](https://pan.baidu.com/s/1JtnzmNVp-W-68pwscQYM3
        
 # 3.Training & Testing
 **Training the PSNet**  
-python Train.py
+
+run python Train.py
 
 **Testing the PSNet**  
+
 Please download the [model parameters](https://pan.baidu.com/s/11zsL2vBhCbNIa7X9QDG5Hw)[code:NEPU]  
 
-python Test.py  
+run python Test.py  
 
 Then the test maps will be saved to './Salmaps/'
 
