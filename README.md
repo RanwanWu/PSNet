@@ -43,8 +43,8 @@ Table.1 Quantitative comparison with ﬁfteen SOTA models on three public RGB-T 
 # 4.3 Download  
 The salmaps of the above datasets (Res2Net backbone) can be download from [here](https://pan.baidu.com/s/185hCBeczOtFbBdJoC_FcEQ) [code:NEPU]  
 The salmaps of the above datasets (VGG16 backbone) can be download from [here](https://pan.baidu.com/s/11ibTBy0VUE17Lp5FxsNd9w) [code:NEPU]  
-The salmaps of the above datasets (Swintransformer) can be download from [here](https://pan.baidu.com/s/1_uY9a8cEBfPoIRAZD7Xvwg) [code:NEPU]  
-The salmaps of the RGBD datasets (Res2Net) can be download from [here](https://pan.baidu.com/s/1Pn6gtJ7-4ma4HgB90JPGGw) [code:NEPU]
+The salmaps of the above datasets (Swintransformer backbone) can be download from [here](https://pan.baidu.com/s/1_uY9a8cEBfPoIRAZD7Xvwg) [code:NEPU]  
+The salmaps of the RGBD datasets (Res2Net backbone) can be download from [here](https://pan.baidu.com/s/1Pn6gtJ7-4ma4HgB90JPGGw) [code:NEPU]
 
 # 5.Citation  
 @article{BI2022410,  
