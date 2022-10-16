@@ -20,7 +20,7 @@ Download the raw data from [here](https://pan.baidu.com/s/1JtnzmNVp-W-68pwscQYM3
 
 run python Train.py
 
-**Testing the PSNet**  
+* **Testing the PSNet**  
 
 Please download the [model parameters](https://pan.baidu.com/s/11zsL2vBhCbNIa7X9QDG5Hw)[code:NEPU]  
 
