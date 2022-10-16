@@ -18,7 +18,7 @@ Download the raw data from [here](https://pan.baidu.com/s/1JtnzmNVp-W-68pwscQYM3
 # 3.Training & Testing
 * **Training the PSNet**  
 
-   ``run python Train.py``
+     run python Train.py
 
 * **Testing the PSNet**  
 
