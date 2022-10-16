@@ -17,12 +17,14 @@ Download the raw data from [here](https://pan.baidu.com/s/1JtnzmNVp-W-68pwscQYM3
        
 # 3.Training & Testing
 * **Training the PSNet**  
+
+Please download the released code and then:  
   
     run python Train.py  
 
 * **Testing the PSNet**  
 
-Please download the [model parameters](https://pan.baidu.com/s/11zsL2vBhCbNIa7X9QDG5Hw)[code:NEPU]  
+Please download the [model parameters](https://pan.baidu.com/s/11zsL2vBhCbNIa7X9QDG5Hw)[code:NEPU] and then:  
 
     run python Test.py  
 
