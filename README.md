@@ -35,14 +35,17 @@ Then the test maps will be saved to './Salmaps/'
 You can evaluate the result maps using the tool from [here](https://pan.baidu.com/s/1gmckcn7FZuDP2ufiTM6qow)[code:NEPU], thanks for [Dengpin Fan](https://github.com/DengPingFan).
 
 # 4.Results
-# 4.1 Qualitative Comparison  
+* **Qualitative comparison**  
+
 ![image](figs/Qualitative_comparison.jpg)  
-Figure.2 Qualitative comparison of our proposed method with ﬁfteen SOTA methods. 
+Figure.2 Qualitative comparison of our proposed method with ﬁfteen SOTA methods.  
+
+* **Quantitative comparison** 
 
 ![image](figs/results.jpg)  
 Table.1 Quantitative comparison with ﬁfteen SOTA models on three public RGB-T benchmark datasets.  
 
-# 4.3 Download  
+* **Download**   
 The salmaps of the above datasets (Res2Net backbone) can be download from [here](https://pan.baidu.com/s/185hCBeczOtFbBdJoC_FcEQ) [code:NEPU]  
 The salmaps of the above datasets (VGG16 backbone) can be download from [here](https://pan.baidu.com/s/11ibTBy0VUE17Lp5FxsNd9w) [code:NEPU]  
 The salmaps of the above datasets (Swintransformer backbone) can be download from [here](https://pan.baidu.com/s/1_uY9a8cEBfPoIRAZD7Xvwg) [code:NEPU]  
