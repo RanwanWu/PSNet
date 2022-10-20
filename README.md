@@ -46,10 +46,10 @@ Figure.2 Qualitative comparison of our proposed method with ﬁfteen SOTA method
 Table.1 Quantitative comparison with ﬁfteen SOTA models on three public RGB-T benchmark datasets.  
 
 * **Download**   
-The salmaps of the above datasets (Res2Net backbone) can be download from [here](https://pan.baidu.com/s/185hCBeczOtFbBdJoC_FcEQ) [code:NEPU]  
-The salmaps of the above datasets (VGG16 backbone) can be download from [here](https://pan.baidu.com/s/11ibTBy0VUE17Lp5FxsNd9w) [code:NEPU]  
-The salmaps of the above datasets (Swintransformer backbone) can be download from [here](https://pan.baidu.com/s/1_uY9a8cEBfPoIRAZD7Xvwg) [code:NEPU]  
-The salmaps of the RGBD datasets (Res2Net backbone) can be download from [here](https://pan.baidu.com/s/1Pn6gtJ7-4ma4HgB90JPGGw) [code:NEPU]
+The salmaps of the above datasets (Res2Net backbone) can be download from [here](https://pan.baidu.com/s/1pb4wnaAODqS1Aaa2BX1VoQ) [code:NEPU]  
+The salmaps of the above datasets (VGG16 backbone) can be download from [here](https://pan.baidu.com/s/13qOnRSygeokEwBWnW4VKpA) [code:NEPU]  
+The salmaps of the above datasets (Swintransformer backbone) can be download from [here](https://pan.baidu.com/s/10LY3P2rz3FLIIdtvuixhEw) [code:NEPU]  
+The salmaps of the RGBD datasets (Res2Net backbone) can be download from [here](https://pan.baidu.com/s/1Biy4O21tUsE-3kwS1qqw-w) [code:NEPU]
 
 # 5.Citation  
 @article{BI2022410,  
