@@ -2,7 +2,7 @@
 
 ![image](figs/overall.jpg)  
    Figure.1 The overall architecture of the proposed PSNet model.  
-   Published in Neurocomputing [paper](https://pan.baidu.com/s/1V7DPu68B7uDzSHnTSE4h2g)[code:NEPU]
+   Published in Neurocomputing [paper](https://pan.baidu.com/s/1SGejev1OEOGNuvcOObOJdg)[code:NEPU]
   
 # 1.Requirements
 Python v3.6, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
